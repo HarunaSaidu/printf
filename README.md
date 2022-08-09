@@ -1,2 +1,2 @@
 # printf
-Custom p
+Custom prin
